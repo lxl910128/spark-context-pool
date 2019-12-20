@@ -46,10 +46,3 @@ web-forensics/dist
 .gradle/
 .vscode/
 .env
-sandor/faceembedder/app/align/__pycache__/
-将删除 common/common-client/src/
-将删除 common/common-spring-boot-starter/src/
-将删除 common/common-utils/src/
-将删除 config/src/test/
-将删除 demo-service/src/main/resources/
-将删除 demo-service/src/test/
